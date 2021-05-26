@@ -1,0 +1,12 @@
+{
+    "name": "mypakk/testing",
+    "description": "hello package for php",
+    "license": "MIT",
+    "require": {},
+    "autoload":{
+
+        "psr-4":{
+            "Hello\\":"src"
+        }
+    }
+}
